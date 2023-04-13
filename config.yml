@@ -1,0 +1,55 @@
+baseURL: ""
+languageCode: en-us
+title: Danilo's Blog and Resume!
+theme: hugo-PaperMod
+    
+params:
+  homeInfoParams:
+    Title: "Hello,"
+    Content: "
+    My name is Danilo Neves and I'm a software professional, here you can find my Resume, my social media links and my own blog where I post about my favorite languages, from tutorials to advanced programming concepts."
+    Image: notebook.jpg
+  socialIcons:
+      - name: github
+        url: "https://github.com/DaniloBaptista"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/danilo-baptista-97a17b198/"  
+      - name: facebook
+        url: "https://www.facebook.com/profile.php?id=100090724718784"
+      - name: website
+        url: "dansnows.dev"
+      
+
+  cover:
+    image: img/notebook.jpg
+    
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: posts
+      name: Blog
+      url: /posts/
+      wight: 30
+    - identifier: Curriculo
+      name: Resume
+      url: /curriculo/
+      weight: 20
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 50
