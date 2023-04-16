@@ -18,4 +18,4 @@ JRE stands for Java Runtime Environment, which includes the JVM, as well as libr
 
 JDK stands for Java Development Kit, which includes the JRE, as well as development tools such as the Java compiler, debugger, and other tools needed to develop Java applications. The JDK is used by developers to create Java applications, and it includes all the necessary tools to develop, debug, and run Java code.
 
-To summarize, the JVM is the runtime environment that executes Java bytecode, the JRE is the JVM plus libraries and files needed to run Java applications, and the JDK is the JRE plus development tools needed to create Java applications.
+To summarize, the JVM is the runtime environment that executes Java bytecode, the JRE is the JVM plus libraries and files needed to run Java applications, and the JDK is the JRE plus development tools needed to create Java applications.AA
