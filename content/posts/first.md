@@ -20,4 +20,4 @@ Java's popularity continued to grow throughout the late 1990s and early 2000s, a
 
 In 2009, Sun Microsystems was acquired by Oracle Corporation, and Java became a part of Oracle's portfolio of products. Since then, Java has continued to evolve, with new features and improvements being added to the language on a regular basis.
 
-Today, Java is used in a wide range of applications, including enterprise software, mobile apps, web applications, and more. Its popularity has also led to the creation of a large community of developers and users, who continue to contribute to the language's development and growth.
+Today, Java is used in a wide range of applications, including enterprise software, mobile apps, web applications, and more. Its popularity has also led to the creation of a large community of developers and users, who continue to contribute to the language's development and growth.AA
