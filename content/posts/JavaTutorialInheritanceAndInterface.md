@@ -17,7 +17,7 @@ Inheritance:
 In Java, inheritance is a fundamental object-oriented programming concept that allows you to create new classes (known as subclasses or derived classes)
 based on existing classes (known as superclasses or base classes). The inheritance relationship establishes an "is-a" relationship between classes,
  where the subclass inherits the properties and behaviors of the superclass.
-
+a
 To define a subclass and establish inheritance, you use the extends keyword. Here's the syntax: 
 
 
