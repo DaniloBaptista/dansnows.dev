@@ -17,7 +17,7 @@ params:
       - name: facebook
         url: "https://www.facebook.com/profile.php?id=100090724718784"
       - name: website
-        url: "dansnows.dev"
+        url: "https://daniloneves.dev"
       
 
   cover:
